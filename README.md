@@ -29,7 +29,8 @@ A full-featured Student Management System built using Angular with CRUD operatio
 
 ## 📸 Screenshots
 
-(Add your UI screenshots here later)
+<img width="1911" height="968" alt="image" src="https://github.com/user-attachments/assets/7fefc08d-3a96-407e-ab4d-20faed97dcd7" />
+
 
 ---
 
